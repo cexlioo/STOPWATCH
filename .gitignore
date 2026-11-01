@@ -1,0 +1,18 @@
+﻿# Keil MDK build output
+Objects/
+Listings/
+*.uvguix.*
+*.scvd
+*.map
+*.axf
+*.hex
+*.bin
+*.o
+*.crf
+*.d
+*.lst
+
+# logs / temp
+*.log
+*.log.lock
+JLinkLog.txt
